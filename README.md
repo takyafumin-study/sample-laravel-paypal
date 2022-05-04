@@ -17,6 +17,7 @@ How To Use
 --------------------
 
 1. Git clone & Change directory
+1. Copy EnvFile(`cp .env.example .env`)
 1. Excecute sail comannd for setup Docker Container
 
 ```bash
